@@ -3,13 +3,13 @@ layout: page
 permalink: /service/
 title: service
 description: Assorted academic service
-nav: false
+nav: True
 nav_order: 3
 ---
 
-## General
+### General
 - Ombudsperson
 
-## Organizational
+### Organizational
 - Seminar organizer 
 
