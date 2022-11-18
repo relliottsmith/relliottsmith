@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /about/
+permalink: /
 subtitle: Masters of Mathematics, University of Chicago
 
 profile:
