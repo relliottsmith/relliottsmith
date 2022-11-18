@@ -9,7 +9,7 @@ nav: true
 nav_order: 1
 ---
 
-### papers, math
+### math
 
 <!-- _pages/publications.md -->
 <div class="publications">
@@ -21,7 +21,7 @@ nav_order: 1
 
 </div>
 
-### papers, other
+### other
 
 <!-- _pages/publications.md -->
 <div class="publications">
