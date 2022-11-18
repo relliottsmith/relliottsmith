@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /service/
-title: service and outreach
+title: service
 description: Assorted academic service and outreach
 nav: True
 nav_order: 3
