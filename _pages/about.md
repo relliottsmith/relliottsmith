@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a> University of Chicago
+subtitle: Masters of Mathematics
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Office: Eckhart 110A</p>
     <p>Email: relliottsmith@uchicago.com</p>
-    <p>Masters of Mathematics/p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-## Instructor of Record:
+### Instructor of Record:
 - math 131, 133
 - math 152
 - math 195

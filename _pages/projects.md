@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
+title: Outreach, Service, and Other
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: An assorted assortment of things.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+display_categories: [work, fun, service]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
