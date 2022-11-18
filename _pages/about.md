@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: Masters of Mathematics
+permalink: /about/
+subtitle: Masters of Mathematics, University of Chicago
 
 profile:
   align: right
@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Fifth year graduate student at the University of Chicago, studying under [Alex Eskin](http://www.math.uchicago.edu/~eskin/) and [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/). 
+I am a fifth year PhD student at the University of Chicago, studying under [Alex Eskin](http://www.math.uchicago.edu/~eskin/) and [Amie Wilkinson](https://math.uchicago.edu/~wilkinso/). 
 
 Research interests: 
 
