@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Outreach, Service, and Other
+title: other
 permalink: /projects/
 description: An assorted assortment of things.
 nav: true
