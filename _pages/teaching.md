@@ -34,6 +34,7 @@ A (abbreviated) catalogue of the courses I have taught or acted as the teaching 
 ### Assorted Other
 - **Fall 2021**: Mentored a student in the UChicago math department's Directed Reading Program [DRP](https://math.uchicago.edu/~drp/). This pairs a graduate student with an advanced undergraduate to work through a topic of their choosing not generally covered by undergraduate curriculum. 
 
+---
 
 
 
