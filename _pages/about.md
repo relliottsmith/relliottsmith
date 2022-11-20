@@ -2,11 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: |- 
-masters of mathematics, University of Chicago (2019)
-
-bachelors of science, University of California, San Diego (2018)
-
+subtitle: "masters of mathematics, University of Chicago (2019)\n bachelors of science, University of California, San Diego (2018)"
 profile:
   align: right
   image: prof_pic.jpg
