@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cat photos
+title: Cats
 description: 
 img: assets/img/IMG_9474.jpeg
 importance: 1

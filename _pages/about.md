@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Mathematician (allegedly)
+subtitle: Mathematician
 profile:
   align: right
   image: prof_pic.jpg
