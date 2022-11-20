@@ -5,7 +5,7 @@ permalink: /projects/
 description: An assorted assortment of things.
 nav: true
 nav_order: 5
-display_categories: [work, service, fun]
+display_categories: [fun]
 horizontal: true
 ---
 
