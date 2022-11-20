@@ -1,6 +1,6 @@
 ---
 layout: page
-title: other
+title: Other
 permalink: /projects/
 description: An assorted assortment of things.
 nav: true
