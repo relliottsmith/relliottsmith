@@ -16,6 +16,6 @@ Academic service and outreach.
 
 
 ### Organizational
-- **Seminar Organizer 2022 - current **: I co-organized a dynamics student seminar in the summer of 2022, and worked with dynamics faculty at UChicago to transition it to a proseminar attached to the general [dynamics seminar](http://math.uchicago.edu/~dynamics/). It now functions as an introductory talk for the general talk, providing essential background for more specialized subjects. 
+- **Seminar Organizer 2022 - current**: I co-organized a dynamics student seminar in the summer of 2022, and worked with dynamics faculty at UChicago to transition it to a proseminar attached to the larger [dynamics seminar](http://math.uchicago.edu/~dynamics/). It now functions as an introductory talk for the general talk. 
 - **Graduate Orientation Organizer 2022**: I co-organized the graduate student orientation in 2022 ([WOMP 2022](http://math.uchicago.edu/~womp/2022/)), a week long math-heavy event intended to introduce new students to the department. 
 

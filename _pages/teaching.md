@@ -10,7 +10,7 @@ A (abbreviated) catalogue of the courses I have taught or acted as the teaching 
 
 ---
 
-### University of Chicago, instructor of record[^1]
+### University of Chicago, Instructor of Record[^1]
 - **Fall 2020**: Math 131, Elementary Functions and Calculus 1
 - **Spring 2021**: Math 133, Elementary Functions and Calculus 3
 - **Fall 2021**: Math 153, Calculus 3
@@ -18,7 +18,7 @@ A (abbreviated) catalogue of the courses I have taught or acted as the teaching 
 - **Fall 2022**: Math 15250, Mathematical Methods for Economic Analysis
 
 
-### University of Chicago, teaching assistant
+### University of Chicago, Teaching Assistant
 - **Spring 2020**: Accelerated Analysis 3 with Professor Alex Eskin
 - **Winter 2020**: Accelerated Analysis 2 with Assistant Professor Beniada Shabani
 - **Fall 2019**: Number Theory with Professor John Boller

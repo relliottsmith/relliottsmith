@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: 
 years1: [2022, Preprint]
 years2: [2019,2018]
@@ -9,7 +9,7 @@ nav: true
 nav_order: 1
 ---
 
-### math
+### Math
 
 <!-- _pages/publications.md -->
 <div class="publications">
@@ -21,7 +21,7 @@ nav_order: 1
 
 </div>
 
-### other
+### Other
 
 <!-- _pages/publications.md -->
 <div class="publications">
