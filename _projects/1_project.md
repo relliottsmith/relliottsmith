@@ -22,11 +22,11 @@ When you smash up an Avogadro, what do you get?
 A mathematician is asked how to brew tea— they say: "oh, fill up a kettle, boil the water, pour it over the leaves, and then wait a few minutes. Thus, tea." Then they are asked, given a full kettle, how do you brew tea? 
 - "It suffices to empty out the kettle to reduce it to the previous problem."
 
-So $$\mathbb{R}$$ was driving like a maniac, swerving all over the road. They got pulled over by a cop, who was asked "Are you drunk?" $$\mathb{R}$$ responded:
+So $$\mathbb{R}$$ was driving like a maniac, swerving all over the road. They got pulled over by a cop, who was asked "Are you drunk?" $$\mathbb{R}$$ responded:
 - "No officer, I can prove I am sober."
 
 What’s a mathematician’s favorite Pokémon? 
-- $$\mu$$
+- $$\mu$$.
 
 A torus and a sphere walk into a bar. When it’s time to pay the tab, the torus is out of cash. So the sphere says, 
 - “I can’t cover you.”

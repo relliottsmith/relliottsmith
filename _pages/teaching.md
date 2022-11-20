@@ -11,11 +11,12 @@ A (abbreviated) catalogue of the courses I have taught or acted as the teaching 
 ---
 
 ### University of Chicago, Instructor of Record[^1]
-- **Fall 2020**: Math 131, Elementary Functions and Calculus 1
-- **Spring 2021**: Math 133, Elementary Functions and Calculus 3
-- **Fall 2021**: Math 153, Calculus 3
-- **Spring 2022**: Math 195, Linear Algebra
 - **Fall 2022**: Math 15250, Mathematical Methods for Economic Analysis
+- **Spring 2022**: Math 195, Linear Algebra
+- **Fall 2021**: Math 153, Calculus 3
+- **Spring 2021**: Math 133, Elementary Functions and Calculus 3
+- **Fall 2020**: Math 131, Elementary Functions and Calculus 1
+
 
 
 ### University of Chicago, Teaching Assistant
