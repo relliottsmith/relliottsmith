@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: 
-years1: [2022, Preprint]
+years1: [preprint (2022), in prep]
 years2: [2019,2018]
 nav: true
 nav_order: 1
