@@ -19,12 +19,6 @@ nav_order: 1
   {% bibliography -f papers -q @*[status={{y}}]* %}
 {% endfor %}
 
-<!-- when i have published things put them here
-{%- for y in page.year %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[status={{y}}]* %}
-{% endfor %} -->
-
 </div>
 
 ### Other
