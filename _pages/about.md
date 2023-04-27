@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Office: Eckhart 110A</p>
-    <p>Email: relliottsmith@uchicago.com</p>
+    <p>Email: relliottsmith@uchicago.edu</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -27,15 +27,16 @@ Generically[^1], I study the behavior of random walks in the smooth dynamical se
 
 
 ### Recent Talks: 
+- April 2023, Beyond Uniform Hyperbolicity (Poland): "Uniformly Expanding Random Walks on Manifolds"
+- February 2023, Dynamics Seminar (University of Chicago): "Uniformly Expanding Random Walks on Manifolds"
 - October 2022, Pizza Seminar (University of Chicago): "Gerrymandering: What if Geometry had Politics?"
 - September 2022, WOMP 2022 (University of Chicago): "The Mathematician’s Terrible, No-Good, Very Bad Example"
-- July 2022, Graduate Student Summer Seminar (University of Chicago): "A sketch of the proof of Ratner's Theorem"
 
 
 ### Upcoming Travel:
 I plan to attend the following conferences and workshops:
-- JMM 2023, Boston
-- 2023 Program for Women and Mathematics
+- Beyond Uniform Hyperbolicity
+- Summer School: Partial Hyperbolicity
 
 ---
 
