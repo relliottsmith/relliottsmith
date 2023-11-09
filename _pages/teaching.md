@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 2
 ---
-A (abbreviated) catalogue of the courses I have taught or acted as the teaching assistant for. Once postdoc applications are looming, I'm sure I'll put a teaching statement here. 
+A (abbreviated) catalogue of the courses I have taught or acted as the teaching assistant for. My teaching statement can be found [here]({% link _pages/teachingstatement.md %}). 
 
 ---
 
