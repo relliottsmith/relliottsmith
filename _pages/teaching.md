@@ -11,6 +11,7 @@ A (abbreviated) catalogue of the courses I have taught or acted as the teaching 
 ---
 
 ### University of Chicago, Instructor of Record[^1]
+- **Winter 2024**: Math 195, Linear Algebra
 - **Fall 2022**: Math 15250, Mathematical Methods for Economic Analysis
 - **Spring 2022**: Math 195, Linear Algebra
 - **Fall 2021**: Math 153, Calculus 3
