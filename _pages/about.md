@@ -39,6 +39,8 @@ Generically[^1], I study measure classification and rigidity in partially hyperb
 ### Upcoming Travel:
 I plan to attend the following conferences and workshops:
 - Alex Eskin's 60th Birthday Conference (June 2025)
+- TBD
+
 ---
 
 
